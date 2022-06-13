@@ -1,0 +1,94 @@
+
+h1 {
+    background-color: white;
+    text-align: center;
+    font-style: italic;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+h3{
+    text-align: center;
+    font-style: italic;
+}
+
+.container{
+    background-image: https://www.semesteratsea.org/wp-content/uploads/2016/10/Close-up-cable-car-e1498070351457.jpg;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+    img{
+        background-color: blue;
+    }
+
+    .city{
+        background-color: lightgrey;
+    
+    }
+    .foreign{
+        background-color: lightgray;
+        ;
+    
+    }
+    .favourite{
+        background-color: lightgray;
+        font-weight: 900;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+    .historic{
+        background-color: lightgray ;
+        text-align: center;
+    
+    }
+
+  
+   .places{
+       background-color: lightgray;
+    display: flex;
+
+ }
+.place1{
+    background-color: pink;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    width: 30%;
+    font-weight: 900;
+
+}
+.place2{
+    background-color: plum;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    width: 30%;
+    font-weight: 900;
+
+}
+  .place3{
+      background-color: palevioletred;
+      margin: 1em;
+      padding: 1em;
+      border-radius: 1em;
+      width: 30%;
+      font-weight: 900;
+
+    
+    
+  }  
+  
+
+table, th, td {
+    border: 1px solid black;
+
+  }
+  
